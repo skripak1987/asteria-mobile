@@ -13,6 +13,7 @@ fullscreen = 0
 icon.filename = %(source.dir)s/icon.png
 android.permissions = INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK,FOREGROUND_SERVICE,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
 android.api = 33
+android.ndk = 25b
 android.minapi = 24
 android.archs = arm64-v8a
 android.accept_sdk_license = True
